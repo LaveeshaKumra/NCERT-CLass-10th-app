@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931343341268",
+    "firebase_url": "https://ncert10-fe8bd.firebaseio.com",
+    "project_id": "ncert10-fe8bd",
+    "storage_bucket": "ncert10-fe8bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931343341268:android:7a173e9c8e3845e0b88d41",
+        "android_client_info": {
+          "package_name": "com.ncertsolutions.class10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931343341268-shf02l0296sbscj3lauio3rfmhrnq0ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ0pXFkrIgyxB0Hcvs5HTOlTV7g0UX20g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931343341268-shf02l0296sbscj3lauio3rfmhrnq0ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

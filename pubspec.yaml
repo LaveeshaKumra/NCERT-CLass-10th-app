@@ -1,0 +1,44 @@
+name: class10
+description: A new Flutter application.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  advance_pdf_viewer: any
+  flutter_downloader: any
+  path_provider: any
+  shared_preferences: any
+  share: any
+  toast: any
+  launch_review: any
+  url_launcher: any
+  connectivity: any
+  flutter_launcher_icons: any
+  firebase_admob: any
+  flutter_native_admob: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - chapters.json
+    - assets/images/
+
+flutter_icons:
+  image_path: "assets/images/logo.png"
+  image_path_ios: "assets/images/logo.png"
+  android: true
+  ios: true
+  adaptive_icon_background: "assets/images/logo.png"
+  adaptive_icon_foreground: "assets/images/logo.png"
+  #  run flutter packages pub run flutter_launcher_icons:main
